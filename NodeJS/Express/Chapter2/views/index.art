@@ -1,0 +1,9 @@
+{{msg}}
+
+{{user}}
+
+    <form action="http://localhost:3000/index/testpage" method="POST">
+        <input type="text" name="username">
+        <input type="password" name="password">
+        <input type="submit" name="">
+    </form>

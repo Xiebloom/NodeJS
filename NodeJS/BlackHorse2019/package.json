@@ -1,0 +1,18 @@
+{
+  "name": "blackhorse2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "05.readFile.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "mime": "^2.5.2",
+    "mongoose": "^5.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
